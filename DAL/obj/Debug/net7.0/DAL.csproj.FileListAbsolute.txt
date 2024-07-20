@@ -1,0 +1,11 @@
+D:\6th Semester\WEB\Assignment 1\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\6th Semester\WEB\Assignment 1\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+D:\6th Semester\WEB\Assignment 1\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+D:\6th Semester\WEB\Assignment 1\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+D:\6th Semester\WEB\Assignment 1\DAL\bin\Debug\net7.0\DAL.deps.json
+D:\6th Semester\WEB\Assignment 1\DAL\bin\Debug\net7.0\DAL.dll
+D:\6th Semester\WEB\Assignment 1\DAL\bin\Debug\net7.0\DAL.pdb
+D:\6th Semester\WEB\Assignment 1\DAL\obj\Debug\net7.0\DAL.dll
+D:\6th Semester\WEB\Assignment 1\DAL\obj\Debug\net7.0\refint\DAL.dll
+D:\6th Semester\WEB\Assignment 1\DAL\obj\Debug\net7.0\DAL.pdb
+D:\6th Semester\WEB\Assignment 1\DAL\obj\Debug\net7.0\ref\DAL.dll

@@ -1,0 +1,18 @@
+D:\6th Semester\WEB\Assignment 1\Presentation Layer\obj\Debug\net7.0\Presentation Layer.GeneratedMSBuildEditorConfig.editorconfig
+D:\6th Semester\WEB\Assignment 1\Presentation Layer\obj\Debug\net7.0\Presentation Layer.AssemblyInfoInputs.cache
+D:\6th Semester\WEB\Assignment 1\Presentation Layer\obj\Debug\net7.0\Presentation Layer.AssemblyInfo.cs
+D:\6th Semester\WEB\Assignment 1\Presentation Layer\obj\Debug\net7.0\Presentation Layer.csproj.CoreCompileInputs.cache
+D:\6th Semester\WEB\Assignment 1\Presentation Layer\bin\Debug\net7.0\Presentation Layer.exe
+D:\6th Semester\WEB\Assignment 1\Presentation Layer\bin\Debug\net7.0\Presentation Layer.deps.json
+D:\6th Semester\WEB\Assignment 1\Presentation Layer\bin\Debug\net7.0\Presentation Layer.runtimeconfig.json
+D:\6th Semester\WEB\Assignment 1\Presentation Layer\bin\Debug\net7.0\Presentation Layer.dll
+D:\6th Semester\WEB\Assignment 1\Presentation Layer\bin\Debug\net7.0\Presentation Layer.pdb
+D:\6th Semester\WEB\Assignment 1\Presentation Layer\bin\Debug\net7.0\DAL.dll
+D:\6th Semester\WEB\Assignment 1\Presentation Layer\bin\Debug\net7.0\DAL.pdb
+D:\6th Semester\WEB\Assignment 1\Presentation Layer\obj\Debug\net7.0\Presentation Layer.csproj.AssemblyReference.cache
+D:\6th Semester\WEB\Assignment 1\Presentation Layer\obj\Debug\net7.0\Presentation Layer.csproj.CopyComplete
+D:\6th Semester\WEB\Assignment 1\Presentation Layer\obj\Debug\net7.0\Presentation Layer.dll
+D:\6th Semester\WEB\Assignment 1\Presentation Layer\obj\Debug\net7.0\refint\Presentation Layer.dll
+D:\6th Semester\WEB\Assignment 1\Presentation Layer\obj\Debug\net7.0\Presentation Layer.pdb
+D:\6th Semester\WEB\Assignment 1\Presentation Layer\obj\Debug\net7.0\Presentation Layer.genruntimeconfig.cache
+D:\6th Semester\WEB\Assignment 1\Presentation Layer\obj\Debug\net7.0\ref\Presentation Layer.dll
